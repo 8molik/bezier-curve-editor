@@ -1,7 +1,7 @@
 Editor.py File Description:
 
 Program view:
-![Untitled](https://github.com/8molik/bezier-curve-editor/assets/74592649/3f529247-ee15-464f-804e-b71e95c8166e)
+![Untitled](https://github.com/8molik/bezier-curve-editor/assets/74592649/a5e20809-1feb-4681-a4ce-0cfb50c453c0)
 
 Instruction:
 The file editor.py contains a Bezier curve editor with the following instructions:
