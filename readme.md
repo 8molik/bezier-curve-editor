@@ -1,5 +1,9 @@
 Editor.py File Description:
 
+Program view:
+![Untitled](https://github.com/8molik/bezier-curve-editor/assets/74592649/3f529247-ee15-464f-804e-b71e95c8166e)
+
+Instruction:
 The file editor.py contains a Bezier curve editor with the following instructions:
 * Left Mouse Button (LMB): Select points. Hold down to move selected points.
 * Right Mouse Button (RMB): Select starting points for new curves among those already saved.
